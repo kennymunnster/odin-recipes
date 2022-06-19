@@ -1,0 +1,24 @@
+/*only one h1 header so using type selector*/
+h1 {
+    color: rgb(147, 32, 99); 
+    font-family: "Garamond", sans-serif; 
+    font-weight: 800;
+    background-color: hsl(42, 55%, 75%);
+}
+
+h2 {
+    background-color: #F0B330;
+    color: rgb(125,28,70);
+    font-family: "Times New Roman", serif;
+    font-weight: 500;
+}
+
+li,
+h3,
+p {
+    font-family: "Courier New", serif;
+}
+
+li {
+    background-color: hsl(310, 75%, 85%)
+}
